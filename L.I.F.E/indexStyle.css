@@ -1,0 +1,87 @@
+body{
+    background-image: url('bgImage.jpg');
+    background-size: 100%;flex-flow: wrap;
+}
+.container {
+    margin: -7px;
+    display: flex;
+    color: white;
+    flex-flow: wrap;
+    justify-content: space-between;
+    background-color: #00000070;
+    width: 101%;
+    height: 59px;
+    border: 2px solid #9dcc9e30;
+}
+.option {
+    display: inline-block;
+    padding: 0px 42px;flex-flow: wrap;
+}
+.logo {
+    height: 58px;
+    border-radius: 40px;
+    margin: 1px 43px;flex-flow: wrap;
+}
+.optionNav {
+    color: white;
+    font-size: 20px;
+    list-style: none;flex-flow: wrap;
+}
+a{
+    text-decoration: none;flex-flow: wrap;
+}
+a:hover{
+   text-decoration: underline;flex-flow: wrap;
+}
+.heading2{
+    display: inline;
+font-size: 40px;
+padding: 2px 29px;
+margin: 1px 102px;
+position: absolute;
+font-family: 'Rampart One', cursive;flex-flow: wrap;
+}
+.mainBody{
+    display: block;
+    text-align: center;
+    padding:7rem;
+    font-family: fangsong; flex-flow: wrap;
+ }
+ .loginOption {
+list-style: none;
+padding: 12px 12px;
+margin: 12px 21px;flex-flow: wrap;
+border-radius: 50px;
+font-family: cursive;
+}
+ a{
+     color: white;
+     text-decoration: none;flex-flow: wrap;
+ }
+ .box1{
+     color: white;
+     font-size: 60px;flex-flow: wrap;
+     padding:23px;
+    
+ }
+.box2 {
+ font-size: 20px;
+ flex-flow: wrap;
+
+ }
+ .login {
+flex-flow: wrap;
+padding: 40px 325px;
+ }
+ #login1{
+ background-color:#a00404;
+ }
+ #login2{
+background-color: #0000e8;
+ }
+ #login3{
+    background-color: green;
+ }
+ #login4{
+         background-color: black;
+     }
